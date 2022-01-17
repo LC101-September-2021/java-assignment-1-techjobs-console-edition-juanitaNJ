@@ -129,6 +129,7 @@ public class TechJobs {
             for (String i : job.keySet()) {
                 System.out.println(i + ": " + job.get(i));
             }
+            System.out.println("*****");
         }
 
        // System.out.println("printJobs is not implemented yet");
